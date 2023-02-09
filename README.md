@@ -7,4 +7,4 @@
 
 
 ### Asciinema brain-even:
-[Look here](https://asciinema.org/a/558348)
+[![asciicast](https://asciinema.org/a/558348.svg)](https://asciinema.org/a/558348)
