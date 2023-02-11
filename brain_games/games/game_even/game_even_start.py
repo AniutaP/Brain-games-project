@@ -23,11 +23,3 @@ Let's try again, {name}!''')
             break
     else:
         print(f'Congratulations, {name}!')
-
-
-def main():
-    even_start()
-
-
-if __name__ == '__main__':
-    main()

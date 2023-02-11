@@ -3,7 +3,6 @@ import prompt
 import random
 from random import randint
 import operator
-from operator import add, mul, sub
 
 
 def calc_start():
@@ -29,11 +28,3 @@ Let's try again, {name}!''')
             break
     else:
         print(f'Congratulations, {name}!')
-
-
-def main():
-    even_start()
-
-
-if __name__ == '__main__':
-    main()
