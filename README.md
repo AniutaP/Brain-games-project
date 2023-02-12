@@ -7,13 +7,16 @@
 
 
 ### Asciinema brain-even:
-[![asciicast](https://asciinema.org/a/558348.svg)](https://asciinema.org/a/558348)
+[![asciicast](https://asciinema.org/a/559251.svg)](https://asciinema.org/a/559251)
+
 
 ### Asciinema brain-calc:
-[![asciicast](https://asciinema.org/a/558709.svg)](https://asciinema.org/a/558709)
+[![asciicast](https://asciinema.org/a/559252.svg)](https://asciinema.org/a/559252)
+
 
 ### Asciinema brain-gcd:
-[![asciicast](https://asciinema.org/a/559086.svg)](https://asciinema.org/a/559086)
+[![asciicast](https://asciinema.org/a/559253.svg)](https://asciinema.org/a/559253)
+
 
 ### Asciinema brain-progression:
-[![asciicast](https://asciinema.org/a/559241.svg)](https://asciinema.org/a/559241)
+[![asciicast](https://asciinema.org/a/559254.svg)](https://asciinema.org/a/559254)
