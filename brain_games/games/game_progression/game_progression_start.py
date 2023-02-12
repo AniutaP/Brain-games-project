@@ -5,8 +5,8 @@ from random import randint, choice
 
 def progression_start():
     name = prompt.string('May I have your name? ')
-    print(f'''Hello, {name}!
-What number is missing in the progression?''')
+    print(f'Hello, {name}!'
+          f'\nWhat number is missing in the progression?')
     i = 1
     while i <= 3:
         str_first_num = randint(1, 20)
@@ -28,9 +28,9 @@ What number is missing in the progression?''')
             print('Correct!')
             i += 1
         else:
-            print(f''''{player_answer_progression}' is wrong answer ;(.
-Correct answer was '{game_answer_progression}'.
-Let's try again, {name}!''')
+            print(f"'{player_answer_progression}' is wrong answer ;(. "
+                  f"Correct answer was '{game_answer_progression}'."
+                  f"\nLet's try again, {name}!")
             break
     else:
         print(f'Congratulations, {name}!')

@@ -7,8 +7,8 @@ import operator
 
 def calc_start():
     name = prompt.string('May I have your name? ')
-    print(f'''Hello, {name}!
-What is the result of the expression?''')
+    print(f'Hello, {name}!'
+          f'\nWhat is the result of the expression?')
     operators = [('+', operator.add), ('-', operator.sub), ('*', operator.mul)]
     i = 1
     while i <= 3:
@@ -22,9 +22,9 @@ What is the result of the expression?''')
             print('Correct!')
             i += 1
         else:
-            print(f''''{player_answer_calc}' is wrong answer ;(.
-Correct answer was '{game_answer_calc}'.
-Let's try again, {name}!''')
+            print(f"'{player_answer_calc}' is wrong answer ;(. "
+                  f"Correct answer was '{game_answer_calc}'."
+                  f"\nLet's try again, {name}!")
             break
     else:
         print(f'Congratulations, {name}!')

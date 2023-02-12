@@ -5,8 +5,8 @@ from random import randint
 
 def even_start():
     name = prompt.string('May I have your name? ')
-    print(f'''Hello, {name}!
-Answer "yes" if the number is even, otherwise answer "no"''')
+    print(f'Hello, {name}!'
+          f'\nAnswer "yes" if the number is even, otherwise answer "no".')
     i = 1
     while i <= 3:
         random_number = randint(1, 100)
@@ -17,9 +17,9 @@ Answer "yes" if the number is even, otherwise answer "no"''')
             print('Correct!')
             i += 1
         else:
-            print(f''''{player_answer_even}' is wrong answer ;(.
-Correct answer was '{game_answer_even}'.
-Let's try again, {name}!''')
+            print(f"'{player_answer_even}' is wrong answer ;(. "
+                  f"Correct answer was '{game_answer_even}'."
+                  f"\nLet's try again, {name}!")
             break
     else:
         print(f'Congratulations, {name}!')

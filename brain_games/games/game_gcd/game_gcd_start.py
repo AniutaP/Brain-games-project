@@ -20,8 +20,8 @@ def gcd(a, b):
 
 def gcd_start():
     name = prompt.string('May I have your name? ')
-    print(f'''Hello, {name}!
-Find the greatest common divisor of given numbers.''')
+    print(f'Hello, {name}!'
+          f'\nFind the greatest common divisor of given numbers.')
     i = 1
     while i <= 3:
         a = randint(-100, 100)
@@ -33,9 +33,9 @@ Find the greatest common divisor of given numbers.''')
             print('Correct!')
             i += 1
         else:
-            print(f''''{player_answer_gcd}' is wrong answer ;(.
-Correct answer was '{game_answer_gcd}'.
-Let's try again, {name}!''')
+            print(f"'{player_answer_gcd}' is wrong answer ;(. "
+                  f"Correct answer was '{game_answer_gcd}'."
+                  f"\nLet's try again, {name}!")
             break
     else:
         print(f'Congratulations, {name}!')
