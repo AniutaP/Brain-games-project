@@ -23,7 +23,7 @@ def prime_start():
         print(f'Question: {a}')
         player_answer_prime = prompt.string('Your answer: ')
         game_answer_prime = is_prime(a)
-        game_answer_prime_final = 'yes' if game_answer_prime == True else 'no'
+        game_answer_prime_final = 'yes' if game_answer_prime is True else 'no'
         if player_answer_prime == game_answer_prime_final:
             print('Correct!')
             i += 1
