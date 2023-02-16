@@ -41,9 +41,11 @@
 [![asciicast](https://asciinema.org/a/559251.svg)](https://asciinema.org/a/559251)
 
 
+
 **Asciinema brain-calc:**
 
 [![asciicast](https://asciinema.org/a/559252.svg)](https://asciinema.org/a/559252)
+
 
 
 **Asciinema brain-gcd:**
@@ -51,9 +53,11 @@
 [![asciicast](https://asciinema.org/a/559253.svg)](https://asciinema.org/a/559253)
 
 
+
 **Asciinema brain-progression:**
 
 [![asciicast](https://asciinema.org/a/559254.svg)](https://asciinema.org/a/559254)
+
 
 
 **Asciinema brain-prime:**
