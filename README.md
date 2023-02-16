@@ -1,4 +1,4 @@
-### BRAIN GAMES PROJECT 
+# BRAIN GAMES PROJECT 
 
 
 
@@ -36,21 +36,21 @@
 ### Examples of running games:
 
 
-# Asciinema brain-even:
+**Asciinema brain-even:**
 [![asciicast](https://asciinema.org/a/559251.svg)](https://asciinema.org/a/559251)
 
 
-# Asciinema brain-calc:
+**Asciinema brain-calc:**
 [![asciicast](https://asciinema.org/a/559252.svg)](https://asciinema.org/a/559252)
 
 
-# Asciinema brain-gcd:
+**Asciinema brain-gcd:**
 [![asciicast](https://asciinema.org/a/559253.svg)](https://asciinema.org/a/559253)
 
 
-# Asciinema brain-progression:
+**Asciinema brain-progression:**
 [![asciicast](https://asciinema.org/a/559254.svg)](https://asciinema.org/a/559254)
 
 
-#  Asciinema brain-prime:
+**Asciinema brain-prime:**
 [![asciicast](https://asciinema.org/a/559337.svg)](https://asciinema.org/a/559337)
