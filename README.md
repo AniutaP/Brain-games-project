@@ -22,6 +22,11 @@
 `$ sudo npm install -g brain_games_hexlet-code`
 
 
+### System requirements: ###
+* programming Language - Python 3
+* operating system - OS Independent
+
+
 ### Examples of running games ###
 
 
