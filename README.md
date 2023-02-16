@@ -9,7 +9,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/bfd8a95323577b72dfc1/maintainability)](https://codeclimate.com/github/AniutaP/python-project-49/maintainability)
 
 
-**The project includes five mini-games launched via the console:**
+### The project includes five mini-games launched via the console: ###
 * brain-even (you have to answer if shown number is even or not)
 * brain-calc (result of the expression)
 * brain-gcd (find the greatest common divisor of given numbers)
