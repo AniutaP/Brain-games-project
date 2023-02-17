@@ -23,7 +23,7 @@
 
 ### Installation 
 
-`$ sudo npm install -g brain_games_hexlet-code`
+`$ sudo npm install -g hexlet-code`
 
 
 

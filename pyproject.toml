@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "brain_games_hexlet-code"
+name = "hexlet-code"
 version = "0.1.0"
 description = "A set of five console games."
 authors = ["anna_petukhova <aniuta.petuhova2013@yandex.ru>"]
