@@ -1,9 +1,15 @@
 [tool.poetry]
-name = "hexlet-code"
+name = "brain_games_hexlet-code"
 version = "0.1.0"
-description = ""
+description = "A set of five console games."
 authors = ["anna_petukhova <aniuta.petuhova2013@yandex.ru>"]
 readme = "README.md"
+repository = "https://github.com/AniutaP/python-project-49"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
 packages = [
   { include = "brain_games" },
 ]
