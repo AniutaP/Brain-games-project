@@ -9,6 +9,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
+    "Environment :: Console"
 ]
 packages = [
   { include = "brain_games" },
