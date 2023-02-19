@@ -7,9 +7,9 @@ DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 def get_gcd(num_1, num_2):
     if (num_2 == 0):
-        return num_1
+        return abs(num_1)
     else:
-        return get_gcd(num_2, num_1 % num_2)
+        return abs(get_gcd(num_2, num_1 % num_2))
 
 
 def get_question_and_answer():
