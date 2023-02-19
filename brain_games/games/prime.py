@@ -8,7 +8,7 @@ DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 def is_prime(num):
     if num > 1:
-        for i in range(2, math.sqrt(num)):
+        for i in range(2, int(math.sqrt(num))):
             if num % i == 0:
                 return False
         return True
