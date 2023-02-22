@@ -15,9 +15,8 @@ def get_question_and_answer():
     index_lost_num = randint(0, length - 1)
     lost_num = progression[index_lost_num]
     progression[index_lost_num] = '..'
-    change_progression = ' '.join(map(str, progression))
 
-    question = change_progression
+    question = ' '.join(map(str, progression))
     answer = str(lost_num)
 
     return question, answer
