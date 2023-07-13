@@ -12,7 +12,7 @@ classifiers = [
     "Environment :: Console"
 ]
 packages = [
-  { include = "brain_games" },
+  {include = "brain_games"},
 ]
 
 
